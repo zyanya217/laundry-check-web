@@ -51,7 +51,7 @@ const zh = {
   z_wet: '還濕',
   z_half: '半乾',
   z_dry: '乾了',
-  best_title: '三天洗衣建議',
+  best_title: '近期洗衣建議',
   best_top: '最推薦',
   best_nodata: '無預報',
   best_rain: '降雨',
